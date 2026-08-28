@@ -1,0 +1,1 @@
+const n="analyse:pending-entity";function s(t){sessionStorage.setItem(n,JSON.stringify(t))}function i(){const t=sessionStorage.getItem(n);if(!t)return null;try{const e=JSON.parse(t);if(e.entityType&&e.entityId)return{entityType:e.entityType,entityId:e.entityId}}catch{}return null}function y(){sessionStorage.removeItem(n)}export{y as c,i as g,s};
