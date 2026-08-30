@@ -1,1 +1,0 @@
-import{h as r,u as s,r as n}from"./index-ywuV61sb.js";import{s as i}from"./analyseEntityCache-D3zAg-1k.js";function f(){const{entityType:t,entityId:e}=r(),a=s();return n.useEffect(()=>{!t||!e||(i({entityType:t,entityId:e}),a("/analyse",{replace:!0}))},[t,e,a]),null}export{f as default};
