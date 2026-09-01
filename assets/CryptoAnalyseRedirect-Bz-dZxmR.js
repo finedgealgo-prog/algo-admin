@@ -1,1 +1,0 @@
-import{h as r,u as s,r as n}from"./index-D8QR5snI.js";import{s as i}from"./analyseEntityCache-D3zAg-1k.js";function y(){const{entityType:t,entityId:e}=r(),a=s();return n.useEffect(()=>{!t||!e||(i({entityType:t,entityId:e}),a("/simulator/crypto/analyse",{replace:!0}))},[t,e,a]),null}export{y as default};
