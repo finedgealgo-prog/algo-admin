@@ -1,0 +1,1 @@
+import{j as r}from"./index-COR2OusE.js";import{SimulatorChartWorkspace as t}from"./Chart-Pr3Bqxss.js";import"./index-D2OY24jx.js";import"./StatusToast-DFa9LAj-.js";import"./useLiveGreeksChain-BJAqwu89.js";import"./useAlertEventsSocket-CjcEa9Pt.js";function u(){return r.jsx(t,{fullPage:!0})}export{u as default};

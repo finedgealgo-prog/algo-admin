@@ -1,1 +1,0 @@
-import{j as r}from"./index-DHuh0U0U.js";import e from"./TelegramMessage-cWOtaKlP.js";import"./PageBreadCrumb-Blz0ZpZ8.js";import"./check-circle-CI9JGjKg.js";function t(){return r.jsx("div",{className:"min-h-screen bg-gray-50 px-4 py-10 dark:bg-gray-900",children:r.jsx("div",{className:"mx-auto max-w-2xl",children:r.jsx(e,{})})})}export{t as default};
